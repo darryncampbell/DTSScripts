@@ -1,0 +1,2 @@
+C:\git\Motorola-Extensions\build\ci\android\hybrid>rake hybrid:build_resultswriter_service
+C:\git\Motorola-Extensions\build\ci\android\hybrid>rake android:install_resultswriter_to_device[7A3C00060B018010]
